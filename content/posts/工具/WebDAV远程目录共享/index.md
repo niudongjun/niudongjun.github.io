@@ -8,6 +8,7 @@ draft = true
 
 ​		在日常生活中我们难免会向别人分享一些自己收藏的珍贵学习资料，如果在同一网络情况下，我们使用windows自带的文件共享功能就可以实现。如果想要搭建自己的文件服务器向更多的朋友分享自己的学习资料，那你可能就需要我这个文章了；主要内容就是使用windows主机的webdav功能（SMB也可以）搭建私有文件服务器，使用Linux主机的httpd功能（ssh也可以）搭建私有文件服务器，windows主机挂载远程目录（webclient），linux主机挂载远程目录（sshfs、davfs）。
 
+<!--more-->
 注：我的电脑是windows10系统、linux是麒麟3系统（其他Linux主机类似）
 
 # 使用windows搭建webdav文件服务器
