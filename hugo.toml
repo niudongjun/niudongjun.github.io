@@ -1,0 +1,4 @@
+baseURL = 'https://blog.jiasiyi.top/'
+languageCode = 'zh_CN'
+title = 'JSYN BLGO'
+theme = 'ananke'
